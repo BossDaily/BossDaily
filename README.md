@@ -42,7 +42,7 @@
 ![BossDaily's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BossDaily&theme=dracula)
 
 ## What I am upto RN
-![BossDaily's Current Status](https://discord-readme-badge.vercel.app/api?id=274973338676494347)
+[![BossDaily's Discord Status](https://lanyard.cnrad.dev/api/274973338676494347)](https://discord.com/users/274973338676494347)
 
 ![BossDaily's Status](https://spotify-recently-played-readme.vercel.app/api?user=vt5b5q5et3rhki85e88ex0tsm)
 
