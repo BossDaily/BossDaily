@@ -25,15 +25,15 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" width="25"/> **React Native**
 -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="25" width="25"/> **NextJS**
 ## Technologies I want to learn
-- **Kotlin**
-- **Java**
-- **Rust**
-- **Tailwind CSS**
-- **SCSS**
-- **React Native**
-- **Go**
-- **Redis**
-- **Docker**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" width="25"/> **Kotlin**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" width="25"/> **Java**
+- <img src="https://rustacean.net/assets/rustacean-flat-noshadow.svg" height="25" width="25"/>**Rust**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="25" width="25"/> **Tailwind CSS**
+- <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" height="25" width="25"/>**SCSS**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="25" width="25"/> **Go**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="25" width="25"/> **Redis**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="25" width="25"/> **Docker**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" width="25"/> **MySQL**
 
 ## Stats
 ![BossDaily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BossDaily&show_icons=true&theme=dracula)
