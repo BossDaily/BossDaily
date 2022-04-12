@@ -39,7 +39,11 @@
 ![BossDaily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BossDaily&show_icons=true&theme=dracula)
 
 
-![BossDaily's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BossDaily&theme=dracula)
+<figure><embed src="https://wakatime.com/share/@ea383cea-ef49-4cfd-abdc-e5bae7645141/e4f70a4d-fbcb-406d-955a-34386f708b53.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@ea383cea-ef49-4cfd-abdc-e5bae7645141/f4f97f51-ea39-4397-8240-940f3d105a0e.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@ea383cea-ef49-4cfd-abdc-e5bae7645141/f4afb702-da43-4917-964e-dedd1a2999f3.svg"></embed></figure>
 
 ## What I am upto RN
 [![BossDaily's Discord Status](https://lanyard.cnrad.dev/api/274973338676494347)](https://discord.com/users/274973338676494347)
