@@ -36,9 +36,9 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" width="25"/> **MySQL**
 
 ## Stats
-![BossDaily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BossDaily&show_icons=true&bg_color=30,db36a4,f7ff00&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
+![BossDaily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BossDaily&show_icons=true&bg_color=30,000000,434343&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BossDaily&bg_color=30,db36a4,f7ff00&text_color=ffffff&title_color=ffffff&layout=compact&custom_title=Top%20Languages%20this%20week)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BossDaily&bg_color=30,000000,434343&text_color=ffffff&title_color=ffffff&layout=compact&custom_title=Top%20Languages%20this%20week)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## What I am upto RN
