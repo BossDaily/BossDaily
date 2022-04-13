@@ -41,9 +41,7 @@
 
 <figure><embed src="https://wakatime.com/share/@ea383cea-ef49-4cfd-abdc-e5bae7645141/e4f70a4d-fbcb-406d-955a-34386f708b53.svg"></embed></figure>
 
-<figure><embed src="https://wakatime.com/share/@ea383cea-ef49-4cfd-abdc-e5bae7645141/f4f97f51-ea39-4397-8240-940f3d105a0e.svg"></embed></figure>
-
-<figure><embed src="https://wakatime.com/share/@ea383cea-ef49-4cfd-abdc-e5bae7645141/3990aa35-3e44-497a-9d71-f452061b92e5.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ea383cea-ef49-4cfd-abdc-e5bae7645141/7e7445b1-2918-47c0-bd7b-4b015416b6a6.png" /></a>
 
 ## What I am upto RN
 [![BossDaily's Discord Status](https://lanyard.cnrad.dev/api/274973338676494347)](https://discord.com/users/274973338676494347)
