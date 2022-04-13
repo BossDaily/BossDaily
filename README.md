@@ -38,7 +38,7 @@
 ## Stats
 ![BossDaily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BossDaily&show_icons=true&theme=dracula)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BossDaily)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BossDaily&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## What I am upto RN
