@@ -38,9 +38,8 @@
 ## Stats
 ![BossDaily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BossDaily&show_icons=true&theme=dracula)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BossDaily)](https://github.com/anuraghazra/github-readme-stats)
 
-<figure><embed src="https://wakatime.com/share/@ea383cea-ef49-4cfd-abdc-e5bae7645141/e4f70a4d-fbcb-406d-955a-34386f708b53.svg"></embed></figure>
-<img src="https://wakatime.com/share/@ea383cea-ef49-4cfd-abdc-e5bae7645141/fb2b3427-8916-4389-b5a5-ab09e8d46116.svg" />
 
 ## What I am upto RN
 [![BossDaily's Discord Status](https://lanyard.cnrad.dev/api/274973338676494347)](https://discord.com/users/274973338676494347)
