@@ -24,6 +24,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="25" width="25"/> **Redux**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" width="25"/> **React Native**
 -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="25" width="25"/> **NextJS**
+-  <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/prisma_icon_132076.png" height="25" width="25"/> **Prisma**
 ## Technologies I want to learn
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" width="25"/> **Kotlin**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" width="25"/> **Java**
