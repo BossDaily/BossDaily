@@ -25,4 +25,4 @@
 
 ![BossDaily's Status](https://spotify-recently-played-readme.vercel.app/api?user=vt5b5q5et3rhki85e88ex0tsm)
 ## Social Links
-<a>![enter image description here](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=BossDaily%206016)</a>
+<a>![enter image description here](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=BossDaily%236016)</a>
