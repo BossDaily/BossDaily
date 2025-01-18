@@ -25,7 +25,7 @@
 
 
 ## What I am upto RN
-[![BossDaily's Discord Status](https://lanyard.cnrad.dev/api/274973338676494347?ignoreAppId=886578863147192350)](https://discord.com/users/274973338676494347)
+[![BossDaily's Discord Status](https://lanyard.cnrad.dev/api/274973338676494347?ignoreAppId=886578863147192350,962990036020756480)](https://discord.com/users/274973338676494347)
 
 
 ## Social Links
