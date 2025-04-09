@@ -28,7 +28,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BossDaily&bg_color=30,000000,434343&text_color=ffffff&title_color=ffffff&layout=compact&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 
-[![BossDailys contributions](https://raw.githubusercontent.com/BossDaily/BossDaily/refs/heads/output/github-contribution-grid-snake.svg)
+![BossDailys contributions](https://raw.githubusercontent.com/BossDaily/BossDaily/refs/heads/output/github-contribution-grid-snake.svg)
 
 ## What I am up to RN
 [![BossDaily's Discord Status](https://lanyard.cnrad.dev/api/274973338676494347?ignoreAppId=886578863147192350,962990036020756480)](https://discord.com/users/274973338676494347)
