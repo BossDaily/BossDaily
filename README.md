@@ -30,8 +30,10 @@
 
 ![BossDailys contributions](https://raw.githubusercontent.com/BossDaily/BossDaily/refs/heads/output/github-contribution-grid-snake.svg)
 
+<!--
 ## What I am up to RN
 [![BossDaily's Discord Status](https://lanyard.cnrad.dev/api/274973338676494347?ignoreAppId=886578863147192350,962990036020756480)](https://discord.com/users/274973338676494347)
 
 ## Social Links
 <a>![enter image description here](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=bossdaily)</a>
+-->
